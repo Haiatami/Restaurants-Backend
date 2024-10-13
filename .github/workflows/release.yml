@@ -1,4 +1,4 @@
-name: restaurats-api-cd
+name: restaurats-backend
 
 on:
   push:
